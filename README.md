@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I'm Parmanand Carpenter:
 I’m currently working on<br><br>Designing and deploying production-grade blockchain solutions, including smart contracts, DeFi systems, and scalable DApps with seamless frontend integration.<br><br>👯 I’m looking to collaborate on<br><br>High-impact Web3, DeFi, and fintech projects where performance, security, and real-world usability matter.<br><br>🤝 I’m looking for help with<br><br>Optimizing smart contract security, advanced auditing practices, and building high-throughput scalable architectures (Layer 2 & cross-chain).<br><br>🌱 I’m currently learning<br><br>Deep diving into protocol-level blockchain architecture, DeFi mechanisms, and advanced system design for large-scale decentralized applications.<br><br>💬 Ask me about<br><br>End-to-end Blockchain Development (Solidity, Hardhat, Web3), smart contract optimization, secure payment flows, and React Native production apps.
 
 
