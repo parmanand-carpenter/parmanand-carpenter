@@ -43,10 +43,3 @@ mainnet, with a self-hosted L1 node, an L1-to-L2 bridge, a public RPC, and a blo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Also:** Hyperledger Besu / Fabric · QBFT · Tessera · OP Stack · op-geth / op-reth · Hardhat · Foundry · Slither · Ethers.js · Web3.js · Polygon
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmanand-carpenter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmanand-carpenter&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
