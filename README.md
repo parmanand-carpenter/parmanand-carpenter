@@ -14,16 +14,17 @@ networks with Hyperledger Besu and Fabric, and public EVM chains including Ether
 Polygon and OP Stack L2. I cover the whole path from smart contracts and chaincode to
 the nodes, infrastructure and security that keep them running in production.
 
-- Delivered a live Hyperledger Fabric platform for an enterprise airline client
+- Built a live cross-chain flight platform pairing Hyperledger Fabric with Ethereum (gotravelx.com)
 - Independently run a production OP Stack L2 rollup on Ethereum mainnet
 - Lead a four-person Solidity team, with a focus on gas optimization and Slither security audits
 
 ### Featured Work
 
-**Go-TravelX** · Enterprise Hyperledger Fabric Platform · [gotravelx.com](https://gotravelx.com)
-A permissioned Fabric network across three organizations with custom Go chaincode and
-MSP role enforcement, recording supply-chain data as tamper-proof ledger entries, plus an
-on-chain voting flow that replaced manual vendor approvals.
+**Go-TravelX** · Cross-Chain Flight Platform · [gotravelx.com](https://gotravelx.com) · [repo](https://github.com/parmanand-carpenter/Gotravelx_Hyperledger)
+A decentralized flight-subscription platform that pairs Hyperledger Fabric (a private ledger for
+flight data, with flight-oracle and DAO chaincode in Go) with Ethereum (GTX ERC-20 payments on
+Sepolia). Includes DAO governance for member voting, an oracle-authorization flow, a user app,
+an admin panel, and a block explorer.
 
 **XhaviScan** · OP Stack Layer-2 Rollup · [xhaviscan.com](https://xhaviscan.com) · [repo](https://github.com/parmanand-carpenter/Xhavic-Blockchain)
 A full Layer-2 on the OP Stack: sequencer, batcher, proposer and challenger in Docker,
